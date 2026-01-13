@@ -1,0 +1,65 @@
+[
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/rapier", "op": "addMerge", "path": "/tags", "value": ["sword", "onehanded"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/mace", "op": "addMerge", "path": "/tags", "value": ["mace", "onehanded"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/khopesh", "op": "addMerge", "path": "/tags", "value": ["sword", "onehanded"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/expandedbow", "op": "addMerge", "path": "/tags", "value": ["bow"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/hornybows", "op": "addMerge", "path": "/tags", "value": ["bow"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/seax", "op": "addMerge", "path": "/tags", "value": ["knife", "onehanded"] },
+  { "side": "Server", "dependsOn": [{ "modid": "spearexpantion" }], "file": "spearexpantion:itemtypes/tool/bartka", "op": "addMerge", "path": "/tags", "value": ["sword", "onehanded"] },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/rapier",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["sword", "onehanded"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/mace",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["mace", "onehanded"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/khopesh",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["sword", "onehanded"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/expandedbow",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["bow"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/hornybows",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["bow"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/seax",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["knife", "onehanded"]
+  },
+  {
+    "side": "Server",
+    "dependsOn": [{ "modid": "spearexpantion" }],
+    "file": "spearexpantion:itemtypes/tool/bartka",
+    "op": "addMerge",
+    "path": "/tags",
+    "value": ["sword", "onehanded"]
+  }
+]
